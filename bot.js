@@ -7,7 +7,7 @@ x5bzteam.on("ready", () => {
     onstart();
 });
 x5bz = "520692794969423872"; //id server
-nick = "Good Day"; //name
+nick = "By Matrex"; //name
 function onstart(){
     var v1 = nick.split('');
     var counter;
